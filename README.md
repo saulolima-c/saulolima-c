@@ -31,8 +31,6 @@
 </a>     
   </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=saulolima-c&label=Profile%20views&color=0e75b6&style=plastic" alt="saulolima-c" /> </p>
-   
-  ![Snake animation](https://github.com/saulolima-c/saulolima-c/blob/output/github-contribution-grid-snake.svg)
  
   </div>
   
