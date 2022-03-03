@@ -1,8 +1,8 @@
 ### Olá! 👋 Eu sou o Saulo. Desenvolvedor Front-end amante de pica
 <div align="center">
   <a href="https://github.com/saulolima-c">
-  <img height="180em" width='280em' src="https://github-readme-stats.vercel.app/api?username=saulolima-c&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='280em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulolima-c&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api?username=saulolima-c&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulolima-c&layout=compact&langs_count=7&theme=dracula"/>
     <br><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saulolima-c&theme=dark" alt="saulolima-c" /></p>
 </div>
   
