@@ -55,9 +55,6 @@
     <img alt="chai" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white">
   </a>
   <a href="" target="_blank">
-    <img alt="chai" src="https://img.shields.io/badge/sinon.js-90EE90?style=for-the-badge">
-  </a>
-  <a href="" target="_blank">
     <img alt="jwt" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
   </a></div>
   <h3 align="center">Deploy & Cloud</h3>
