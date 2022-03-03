@@ -1,4 +1,4 @@
-### Olá! Eu sou o Saulo  👋
+### Olá! 👋 Eu sou o Saulo. Desenvolvedor front-end amante de React.js
 
 <!--
 **saulolima-c/saulolima-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
