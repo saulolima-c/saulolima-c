@@ -40,18 +40,6 @@
     <img alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   </a>
   </div>
-<h3 align="center">Deploy & Cloud</h3>
-  <div align="center">
-  <a href="" target="_blank">
-    <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  </a>
-  <a href="" target="_blank">
-    <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-  </a>
-  <a href="" target="_blank">
-    <img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  </a>
-  </div>
 <h3 align="center">Test & Auth</h3>
   <div align="center">
    <a href="" target="_blank">
@@ -72,6 +60,18 @@
   <a href="" target="_blank">
     <img alt="jwt" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
   </a></div>
+  <h3 align="center">Deploy & Cloud</h3>
+  <div align="center">
+  <a href="" target="_blank">
+    <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+  </a>
+  <a href="" target="_blank">
+    <img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
+  </a>
+  </div>
   <h3 align="center">Connect with me:</h3>
   <div align="center" 
   <a href = "mailto:saulolima.c@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
