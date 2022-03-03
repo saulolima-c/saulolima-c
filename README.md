@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou o Saulo. Desenvolvedor front-end amante de React.js
+### Olá! 👋 Eu sou o Saulo. Desenvolvedor Front-end amante de React.js
 <div align="center">
   <a href="https://github.com/saulolima-c">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saulolima-c&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
