@@ -1,13 +1,13 @@
 ### <p align="center">Olá! 👋 Eu sou o Saulo. Desenvolvedor Front-end e um amante de tecnologia!</p>
 <div align="center">
   <a href="https://github.com/saulolima-c">
-  <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api?username=saulolima-c&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api?username=saulolima-c&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" width='400em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulolima-c&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
  <h3 align="center">Languages and Tools:</h3>
-<h3 align="center">Front end</h3>
+<h3 align="center">Front end & Back end</h3>
   <div align="center">
   <a href="" target="_blank">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -24,10 +24,7 @@
   <a href="" target="_blank">
   <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </a>
-  </div>
-<h3 align="center">Back end</h3>
-  <div align="center">
-  <a href="" target="_blank">
+    <a href="" target="_blank">
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   <a href="" target="_blank">
@@ -40,7 +37,7 @@
     <img alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   </a>
   </div>
-<h3 align="center">Test & Auth</h3>
+<h3 align="center">Test, Auth, Deploy & Cloud</h3>
   <div align="center">
    <a href="" target="_blank">
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
@@ -56,10 +53,8 @@
   </a>
   <a href="" target="_blank">
     <img alt="jwt" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-  </a></div>
-  <h3 align="center">Deploy & Cloud</h3>
-  <div align="center">
-  <a href="" target="_blank">
+  </a>
+   <a href="" target="_blank">
     <img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   </a>
   <a href="" target="_blank">
@@ -67,7 +62,6 @@
   </a>
   <a href="" target="_blank">
     <img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  </a>
   </div>
   <h3 align="center">Connect with me:</h3>
   <div align="center" 
