@@ -1,4 +1,4 @@
-### <p align="center">Olá! 👋 Eu sou o Saulo. Desenvolvedor Fullstack e um amante de tecnologia!</p>
+### <p align="center">Olá! 👋 Eu sou o Saulo. Desenvolvedor Full Stack e um amante de tecnologia!</p>
 <div align="center">
   <a href="https://github.com/saulolima-c">
  
