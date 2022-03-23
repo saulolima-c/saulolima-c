@@ -1,13 +1,14 @@
-### <p align="center">Olá! 👋 Eu sou o Saulo. Desenvolvedor Full Stack e um amante de tecnologia!</p>
+###
 <div align="center">
   <a href="https://github.com/saulolima-c">
  
   <img height="150em" width='410em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulolima-c&layout=compact&langs_count=5&theme=white" />
-  <img height="150em" width='400em' src="https://github-readme-stats.vercel.app/api?username=saulolima-c&hide=stars,issues&show_icons=true&theme=dark&include_all_commits=false&count_private=true" />
   
-  ##
- <h3 align="center">Languages and Tools:</h3>
-<h3 align="center">Front end & Back end</h3>
+##
+    
+    
+<h3>Languages and tools:</h3>
+<h4 align="center">Front end & Back end</h4>
   <div align="center">
   <a href="" target="_blank">
   <img alt="javascript" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -37,7 +38,7 @@
     <img alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   </a>
   </div>
-<h3 align="center">Test, Auth, Deploy & Cloud</h3>
+<h4 align="center">Test, Auth, Deploy & Cloud</h4>
   <div align="center">
    <a href="" target="_blank">
     <img alt="jest" src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
@@ -63,16 +64,14 @@
   <a href="" target="_blank">
     <img alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
   </div>
-  <h3 align="center">Connect with me:</h3>
+  <h4 align="center">Connect with me:</h4>
   <div align="center" 
   <a href = "mailto:saulolima.c@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/saulolima-c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/553195088117" alt="WhatsApp" target="_blank">
-<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/553195088117"/>
 </a>     
   </div>
   </div>
   <div margin-top="255px">
   <br>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=saulolima-c&label=Profile%20views&color=0e75b6&style=plastic" alt="saulolima-c" /> </p>
   </div>
